@@ -1,3 +1,8 @@
+----
+layout:single
+title:"í…ŒìŠ¤íŠ¸ ì²«í¬ìŠ¤íŒ…"
+---
+
 ---
 layout: single
 title:  "Top 10 Restaurants you must visit when traveling to New York"
@@ -73,4 +78,4 @@ sidebar:
 
 When traveling to New York, you must visit these top 10 restaurants. From Eleven Madison Park to Del Posto, each restaurant offers a unique menu and atmosphere. Whether you're looking for a romantic dinner or a quick bite, these restaurants will surely satisfy your cravings. So, make sure to add these restaurants to your list when you visit New York! #NewYork #Travel #Food #Top10Restaurants
 
-´º¿å¿¡ ¿©ÇàÇÒ ¶§ ¹İµå½Ã ¹æ¹®ÇØ¾ß ÇÒ 10°³ÀÇ ·¹½ºÅä¶û¿¡ ´ëÇÑ ÀÌ ºí·Î±× ±ÛÀÌ´Ù. ¿¤¸®º£³× ¸Şµğ½¼ ÆÄÅ©ºÎÅÍ µ¨ Æ÷½ºÅä±îÁö, °¢°¢ÀÇ ·¹½ºÅä¶ûÀº µ¶Æ¯ÇÑ ¸Ş´º¿Í ºĞÀ§±â¸¦ Á¦°øÇÑ´Ù. ·Î¸ÇÆ½ÇÑ Àú³á½Ä»ç³ª ºü¸¥ ¹è°¡¸¦ À§ÇØ¼­¶ó¸é, ÀÌ ·¹½ºÅä¶ûµéÀÌ ´ç½ÅÀÇ ¿å±¸¸¦ ¸¸Á·½ÃÄÑÁÙ °ÍÀÌ´Ù. ´º¿å¿¡ ¿©ÇàÇÒ ¶§ ÀÌ ·¹½ºÅä¶ûµéÀ» ¹æ¹®ÇÏ´Â °ÍÀ» ²À ±â¾ïÇÏÀÚ! #´º¿å #¿©Çà #À½½Ä #Å¾10·¹½ºÅä¶û
+ë‰´ìš•ì— ì—¬í–‰í•  ë•Œ ë°˜ë“œì‹œ ë°©ë¬¸í•´ì•¼ í•  10ê°œì˜ ë ˆìŠ¤í† ë‘ì— ëŒ€í•œ ì´ ë¸”ë¡œê·¸ ê¸€ì´ë‹¤. ì—˜ë¦¬ë² ë„¤ ë©”ë””ìŠ¨ íŒŒí¬ë¶€í„° ë¸ í¬ìŠ¤í† ê¹Œì§€, ê°ê°ì˜ ë ˆìŠ¤í† ë‘ì€ ë…íŠ¹í•œ ë©”ë‰´ì™€ ë¶„ìœ„ê¸°ë¥¼ ì œê³µí•œë‹¤. ë¡œë§¨í‹±í•œ ì €ë…ì‹ì‚¬ë‚˜ ë¹ ë¥¸ ë°°ê°€ë¥¼ ìœ„í•´ì„œë¼ë©´, ì´ ë ˆìŠ¤í† ë‘ë“¤ì´ ë‹¹ì‹ ì˜ ìš•êµ¬ë¥¼ ë§Œì¡±ì‹œì¼œì¤„ ê²ƒì´ë‹¤. ë‰´ìš•ì— ì—¬í–‰í•  ë•Œ ì´ ë ˆìŠ¤í† ë‘ë“¤ì„ ë°©ë¬¸í•˜ëŠ” ê²ƒì„ ê¼­ ê¸°ì–µí•˜ì! #ë‰´ìš• #ì—¬í–‰ #ìŒì‹ #íƒ‘10ë ˆìŠ¤í† ë‘
